@@ -1,0 +1,30 @@
+component_depth: 1
+languages:
+- java
+exclude:
+- ./branches/.*
+- ./branches/nkadwa_nio/.*
+- ./tags/.*
+- ./tags/pre-busted/.*
+- ./tags/pre-clean/.*
+- ./tags/pre-clean/docs/.*
+- ./tags/pre-clean/docs/sample/.*
+- ./tags/pre-clean/lib/.*
+- ./tags/pre-clean/lib/TGGL_122_jre11/.*
+- ./tags/pre-clean/lib/aopalliance-1.0/.*
+- ./tags/pre-clean/lib/apache-ant-1.6.5/.*
+- ./tags/pre-clean/lib/asm-2.2.2/.*
+- ./tags/pre-clean/lib/aspectwerks-2.0/.*
+- ./tags/pre-clean/lib/cglib-2.2/.*
+- ./tags/pre-clean/lib/dynaop-1.0-beta/.*
+- ./tags/pre-clean/lib/glazedlists-1.6.1/.*
+- ./tags/pre-clean/lib/jarjar-0.7/.*
+- ./tags/pre-clean/lib/javassist-3.1/.*
+- ./tags/pre-clean/lib/jboss-aop1.5.0.GA/.*
+- ./tags/pre-clean/lib/jfreechart-1.0.1/.*
+- ./tags/pre-clean/lib/junit4.1/.*
+- ./tags/pre-clean/lib/logging-log4j-1.2.13/.*
+- ./tags/pre-clean/lib/nanning-0.9/.*
+- ./tags/pre-clean/lib/spring-framework-1.2.8/.*
+- ./tags/pre-clean/test/.*
+- ./trunk/.*
